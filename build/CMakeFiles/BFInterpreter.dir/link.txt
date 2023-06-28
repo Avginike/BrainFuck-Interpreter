@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\BFInterpreter.dir/objects.a
+C:\PATH\mingw64\bin\ar.exe qc CMakeFiles\BFInterpreter.dir/objects.a @CMakeFiles\BFInterpreter.dir\objects1
+C:\PATH\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\BFInterpreter.dir/objects.a -Wl,--no-whole-archive -o BFInterpreter.exe -Wl,--out-implib,libBFInterpreter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BFInterpreter.dir\linkLibs.rsp

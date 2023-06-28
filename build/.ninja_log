@@ -1,0 +1,9 @@
+# ninja log v5
+4	912	6869195839527247	CMakeFiles/BFInterpreter.dir/src/main.cpp.obj	8322684bde118e0c
+912	1006	6869195840484686	BFInterpreter.exe	4856f92294f8b33e
+11	749	6870368005246165	CMakeFiles/BFInterpreter.dir/src/main.cpp.obj	8322684bde118e0c
+749	936	6870368007141126	BFInterpreter.exe	4856f92294f8b33e
+14	595	6870369336093351	CMakeFiles/BFInterpreter.dir/src/main.cpp.obj	8322684bde118e0c
+11	118	6870369393111995	BFInterpreter.exe	4856f92294f8b33e
+8	566	6870370612056258	CMakeFiles/BFInterpreter.dir/src/main.cpp.obj	8322684bde118e0c
+567	661	6870370613007447	BFInterpreter.exe	4856f92294f8b33e
