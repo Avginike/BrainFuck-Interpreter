@@ -1,0 +1,3 @@
+C:/Users/janek/Projects/YuriFuck/build/CMakeFiles/BFInterpreter.dir
+C:/Users/janek/Projects/YuriFuck/build/CMakeFiles/edit_cache.dir
+C:/Users/janek/Projects/YuriFuck/build/CMakeFiles/rebuild_cache.dir

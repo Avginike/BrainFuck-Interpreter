@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/janek/Projects/YuriFuck/build",
+  "command": "C:\\PATH\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\BFInterpreter.dir\\src\\main.cpp.obj -c C:\\Users\\janek\\Projects\\YuriFuck\\src\\main.cpp",
+  "file": "C:/Users/janek/Projects/YuriFuck/src/main.cpp"
+}
+]
